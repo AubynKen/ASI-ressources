@@ -6,7 +6,7 @@ Si vous voulez pas perdre votre temps en ASI et apprendre ce qu’apprennent les
 
 ## Pourquoi ce cours
 
-Le module d'OS (Système d'Exploitation) proposé en informatique à CS est assez élémentaire. Nous avons à peine effleuré le fonctionnement du noyau, et le travail pratique se limite à des ls mkdir, quelques scripts bash, et des créations de fichiers. | Le lien que j’ai fourni est le site officiel d’un manuel utilisé par MIT. J’ai essayé de suivre les cours mais le livre est déjà assez dense. C’est un livre qui se concentre autour de trois pièces conceptuelles fondamentales pour les systèmes d'exploitation : la virtualisation, la concurrence et la persistance.
+Le module d'OS (Système d'Exploitation) proposé en informatique à CS est assez élémentaire. Nous avons à peine effleuré le fonctionnement du noyau, et le travail pratique se limite à des `ls`, `mkdir`, quelques scripts bash, et des créations de fichiers.
 
 ## Commentaire
 
@@ -105,7 +105,7 @@ C’est un cours marrant.
 
 ## Commentaire
 
-Cours absolument inutile d’un point de vue utilitaire : soyons honnête on va pas coder des compliateurs qui partent en prod.
+Cours absolument inutile d’un point de vue utilitaire : soyons honnête on va pas coder des compilateurs qui partent en prod.
 
 ## Ressources
 
@@ -114,7 +114,7 @@ Cours absolument inutile d’un point de vue utilitaire : soyons honnête on
 
 # Pour aller plus loin
 
-Ce dépôt explique comment programmer pas à pas de nombreux projets. C'est un point de départ idéal pour beaucoup de projet
+Ce dépôt explique comment programmer pas à pas de nombreux projets. C'est un point de départ idéal pour beaucoup de projets
 et cela permet d'apprendre en faisant, ce que je trouve plus efficace que de lire des pages de livres.
 
 https://github.com/codecrafters-io/build-your-own-x
